@@ -1,1 +1,3 @@
-Ahoj studenti!
+Ahoj studenti,
+
+jak se máte?
